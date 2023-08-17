@@ -1,0 +1,73 @@
+{
+    "nom": "First Tournament",
+    "lieu": "Paris",
+    "date_debut": "2023-08-01",
+    "date_fin": "2023-08-10",
+    "tours": [
+        {
+            "numero": 1,
+            "matches": [
+                {
+                    "joueur1": {
+                        "nom": "Dubois",
+                        "prenom": "Patrick",
+                        "date_naissance": "1990-01-15",
+                        "identifiant": "AB12345"
+                    },
+                    "joueur2": {
+                        "nom": "Leblond",
+                        "prenom": "Caroline",
+                        "date_naissance": "1988-05-20",
+                        "identifiant": "CD67890"
+                    },
+                    "resultat": 0
+                },
+                {
+                    "joueur1": {
+                        "nom": "Dubois",
+                        "prenom": "Patrick",
+                        "date_naissance": "1990-01-15",
+                        "identifiant": "AB12345"
+                    },
+                    "joueur2": {
+                        "nom": "Leblond",
+                        "prenom": "Caroline",
+                        "date_naissance": "1988-05-20",
+                        "identifiant": "CD67890"
+                    },
+                    "resultat": 0.5
+                },
+                {
+                    "joueur1": {
+                        "nom": "Dubois",
+                        "prenom": "Patrick",
+                        "date_naissance": "1990-01-15",
+                        "identifiant": "AB12345"
+                    },
+                    "joueur2": {
+                        "nom": "Leblond",
+                        "prenom": "Caroline",
+                        "date_naissance": "1988-05-20",
+                        "identifiant": "CD67890"
+                    },
+                    "resultat": 1
+                }
+            ]
+        }
+    ],
+    "joueurs": [
+        {
+            "nom": "Dubois",
+            "prenom": "Patrick",
+            "date_naissance": "1990-01-15",
+            "identifiant": "AB12345"
+        },
+        {
+            "nom": "Leblond",
+            "prenom": "Caroline",
+            "date_naissance": "1988-05-20",
+            "identifiant": "CD67890"
+        }
+    ],
+    "description": "Friendly Tournament"
+}
